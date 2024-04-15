@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Siqin LIU"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  
+  page-footer:
+      border: false
+      center: "Powered by [Quarto](https://quarto.org) | © 2024 Siqin LIU"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

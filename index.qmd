@@ -1,0 +1,44 @@
+---
+title: "Hi there!"
+format: 
+    html: 
+      title-block-banner: true
+      title-block-banner-color: "#80A4CB"
+
+about:
+  template: jolla
+  image: photo.jpg
+  image-shape: rectangle
+  links: 
+    - icon: envelope
+      text: email me
+      href: mailto:sliuca@connect.ust.hk
+---
+
+:::{style="text-align:justify; font-weight:500; font-size: 1.5rem" }
+
+I am a [Ph.D. candidate in Social Science (Economics)](https://sosc.hkust.edu.hk/node/94) at the Hong Kong University of Science and Technology. I am on the 2024-2025 job market.
+
+My research fields lie in Urban Economics, Entrepreneurship, and Political Economy. My current work focuses on the firm dynamics and the orgins of (in) formal entreprise. 
+:::
+
+::: grid
+::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
+#### Education
+
+-   PhD in Social Science, currently enrolled\
+    ![](university.png){width="5.5%"}*Hong Kong University of Science and Technology, Hong Kong*\
+-   MPhil in Social Science, 2020\
+    ![](university.png){width="5.5%"}*Hong Kong University of Science and Technology, Hong Kong*\
+
+-   BA in Economics, 2018\
+    ![](university.png){width="5.5%"}*Central University of Finance and Economics, Beijing*\
+:::
+
+::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
+#### Interests
+
+-   Urban Economics
+-   Entrepreneurship and Development Economics
+:::
+:::
